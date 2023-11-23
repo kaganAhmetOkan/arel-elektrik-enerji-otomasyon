@@ -1,0 +1,14 @@
+.main {
+  padding: 0 var(--padding);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: var(--padding);
+}
+
+.container > h1 {
+  text-align: center;
+}
