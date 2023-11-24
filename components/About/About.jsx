@@ -15,10 +15,10 @@ export default function About() {
           Yönetimimiz, tüm teslimatlarımıza güvenli kalite sağlamakla kalmayıp, müşterilerimizin programlarının yerine getirilmesini ve bütçe dahilinde olmasını sağlamayı taahhüt ve temin eder.
         </p>
         <p>
-          Birincil hizmetimiz, müşterilemize sunduğumuz deneyimdir.
+          Birincil hizmetimiz, müşterilerimize sunduğumuz deneyimdir.
         </p>
         <p>
-          Güvenilik, esnek, yetenekliyiz ve işiniz halletmek, zamandan ve kaynaklardan tasarruf etmek için uzmanlığımıza ve bağlılığımıza güvenebilirsiniz.
+          Güvenilir, esnek, yetenekliyiz ve işinizi halletmek, zamandan ve kaynaklardan tasarruf etmek için uzmanlığımıza ve bağlılığımıza güvenebilirsiniz.
         </p>
       </div>
     </div>
