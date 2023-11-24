@@ -50,6 +50,6 @@
 
 @media screen and (max-width: 500px) {
   .image {
-    width: calc(100vw - var(--padding)); height: calc(100vh - var(--padding) - var(--nav-height));
+    width: calc(100vw - var(--padding) * 2); height: calc(100vh - var(--padding) - var(--nav-height));
   }
 }

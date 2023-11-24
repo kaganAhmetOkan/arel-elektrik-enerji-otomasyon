@@ -19,9 +19,6 @@ export default function Footer() {
         </p>
       </div>
       <div>
-        <h1>AREL Elektrik & Enerji Otomasyon</h1>
-      </div>
-      <div>
         <Image src="/images/arel.svg" alt="AREL" width={200} height={100} />
       </div>
     </footer>

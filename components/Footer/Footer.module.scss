@@ -9,14 +9,8 @@
 
 .main > div {
   display: flex;
-  flex-grow: 1;
   flex-direction: column;
   gap: 8px;
-  width: 200px;
-}
-
-.main > div:last-child {
-  align-items: flex-end;
 }
 
 .main h1 {
@@ -25,10 +19,4 @@
 
 .main a {
   text-decoration: underline;
-}
-
-@media screen and (max-width: 500px) {
-  .main > div:last-child {
-    align-items: center;
-  }
 }
