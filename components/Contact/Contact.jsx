@@ -4,6 +4,7 @@ import Image from "next/image";
 export default function Contact() {
   const name = "Murat AKSAN";
   const number = "0532 477 19 67";
+  const tel = "+905324771967";
   const email = "mrtaksan06@gmail.com";
 
   return (
@@ -14,11 +15,11 @@ export default function Contact() {
           <h2>{name}</h2>
           <div>
             <Image src="/images/phone.png" alt="phone" width={32} height={32} />
-            <p>{number}</p>
+            <a href={`tel:${tel}`}>{number}</a>
           </div>
           <div>
             <Image src="/images/mail.png" alt="email" width={32} height={32} />
-            <p>{email}</p>
+            <a href={`mailto:${email}`}>{email}</a>
           </div>
         </div>
       </div>
