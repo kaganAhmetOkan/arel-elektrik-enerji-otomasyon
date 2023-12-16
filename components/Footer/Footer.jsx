@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className={style.main}>
       <div>
         <p>
-          Made by <a href="https://www.upwork.com/freelancers/~013128e1c954c7dc29?viewMode=1" target="_blank">Kağan Ahmet Okan</a>
+          Made by <a href="https://kagan-ahmet-okan.vercel.app" target="_blank">Kağan Ahmet Okan</a>
         </p>
         <p>
           Photograph by <a href="https://unsplash.com/@christopher__burns" target="_blank">Christopher Burns</a> on <a href="https://unsplash.com/photos/man-using-welding-machine-Wiu3w-99tNg" target="_blank">Unsplash</a>
