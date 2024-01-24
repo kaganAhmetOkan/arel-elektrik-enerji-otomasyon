@@ -22,7 +22,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 100vw; min-height: calc(100vh - var(--nav-height));
+  min-height: calc(100vh - var(--nav-height));
   padding: var(--padding);
 }
 
@@ -46,7 +46,7 @@
 
 .image {
   display: flex;
-  width: calc(100vw - var(--padding) * 2); height: max(calc(100vh - var(--nav-height) - var(--padding) * 2), 228px);
+  width: calc(100% - var(--padding) * 2); height: max(calc(100vh - var(--nav-height) - var(--padding) * 2), 228px);
   overflow: hidden;
   position: absolute;
   z-index: 1;
